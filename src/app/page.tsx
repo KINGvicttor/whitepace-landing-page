@@ -4,6 +4,7 @@ import { Header } from "@/components/Header";
 import { HeroSection } from "@/components/HeroSection";
 import { ExtensionSection } from "@/components/ExtensionSection";
 import { WorkSection } from "@/components/WorkSection";
+import { CustomizeSection } from "@/components/CustomizeSection";
 
 
 const Page = () => {
@@ -13,6 +14,7 @@ const Page = () => {
       <HeroSection />
       <WorkSection />
       <ExtensionSection />
+      <CustomizeSection />
     </div>
   )
 }
