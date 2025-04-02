@@ -2,7 +2,7 @@
 
 import { Header } from "@/components/Header";
 import { HeroSection } from "@/components/HeroSection";
-import { CustomizeSection } from "@/components/CustomizeSection";
+import { ExtensionSection } from "@/components/ExtensionSection";
 import { WorkSection } from "@/components/WorkSection";
 
 
@@ -12,7 +12,7 @@ const Page = () => {
       <Header />
       <HeroSection />
       <WorkSection />
-      <CustomizeSection />
+      <ExtensionSection />
     </div>
   )
 }

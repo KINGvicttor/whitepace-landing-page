@@ -1,7 +1,7 @@
 import rightArrow from "../assets/img/right-arrow-icon.png"
 import titleBg from "../assets/img/bg-yellow.png"
 
-export const CustomizeSection = () => {
+export const ExtensionSection = () => {
     return (
         <section className="w-full h-[759px] bg-primary-darkblue">
             <div className="container mx-auto w-full h-full flex justify-between items-center">
