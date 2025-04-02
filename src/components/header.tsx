@@ -41,7 +41,7 @@ export const Header = () => {
                             </li>
                         </ul>
                     </nav>
-                    <div className="w-[377px] h-[60px] flex items-center">
+                    <div className="w-full h-[60px] flex items-center justify-end">
                         <button className="flex justify-center items-center w-[126px] h-[60px] rounded-lg border-secondary-yellow bg-secondary-yellow text-primary-darkblue cursor-pointer">
                             <p className="w-[46px] h-[23px]">Login</p>
                         </button>

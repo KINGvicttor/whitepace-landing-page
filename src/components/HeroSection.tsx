@@ -11,7 +11,7 @@ export const HeroSection = () => {
                                 <h1 className="text-6xl font-bold">Get More Done with whitepace</h1>
                             </div>
                             <div className="w-[656px] h-[60px]">
-                                <p>Project management software that enables your teams to collaborate, plan, analyze and manage everyday tasks</p>
+                                <p className="text-lg">Project management software that enables your teams to collaborate, plan, analyze and manage everyday tasks</p>
                             </div>
                             <button className="flex justify-center items-center w-[219px] mt-10 h-[63px] rounded-lg border-primary-blue bg-primary-blue text-white cursor-pointer">
                                 <p className="w-[159px] h-[29px]">Try whitepace free</p>
