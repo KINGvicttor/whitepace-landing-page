@@ -1,7 +1,7 @@
 import rightArrow from "../assets/img/right-arrow-icon.png"
 import logoIcon from "../assets/img/whitepace-logo-icon.png"
 
-export const WorkManagement = () => {
+export const WorkSection = () => {
     return (
         <section className="bg-white w-full h-[1588px] text-black">
             <div className="container mx-auto h-full flex flex-col justify-center">

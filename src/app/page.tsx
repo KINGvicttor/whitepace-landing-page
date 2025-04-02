@@ -2,7 +2,8 @@
 
 import { Header } from "@/components/Header";
 import { HeroSection } from "@/components/HeroSection";
-import { WorkManagement } from "@/components/WorkManagement";
+import { CustomizeSection } from "@/components/CustomizeSection";
+import { WorkSection } from "@/components/WorkSection";
 
 
 const Page = () => {
@@ -10,7 +11,8 @@ const Page = () => {
     <div className="font-inter bg-primary-darkblue">
       <Header />
       <HeroSection />
-      <WorkManagement />
+      <WorkSection />
+      <CustomizeSection />
     </div>
   )
 }
