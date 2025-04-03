@@ -8,7 +8,7 @@ export const ExtensionSection = () => {
                 <div className="w-[697px] h-[294px] flex flex-col justify-center">
                     <div className="w-[697px] h-[87px]">
                         <h1 className="text-6xl absolute font-bold">Use as Extension</h1>
-                        <img className="w-[409px] h-[48px] ml-16 mt-14"  src={titleBg.src} />
+                        <img className="w-[409px] h-[48px] ml-26 mt-14"  src={titleBg.src} />
                     </div>
                     <div className="w-[697px] h-[60px]">
                         <p className="text-lg">Use the web clipper extension, available on Chrome and Firefox, to save web pages or take screenshots as notes.</p>

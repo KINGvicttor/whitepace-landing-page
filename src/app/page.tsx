@@ -5,6 +5,7 @@ import { HeroSection } from "@/components/HeroSection";
 import { ExtensionSection } from "@/components/ExtensionSection";
 import { WorkSection } from "@/components/WorkSection";
 import { CustomizeSection } from "@/components/CustomizeSection";
+import { PlanSection } from "@/components/PlanSection";
 
 
 const Page = () => {
@@ -15,6 +16,7 @@ const Page = () => {
       <WorkSection />
       <ExtensionSection />
       <CustomizeSection />
+      <PlanSection />
     </div>
   )
 }
