@@ -6,6 +6,7 @@ import { ExtensionSection } from "@/components/ExtensionSection";
 import { WorkSection } from "@/components/WorkSection";
 import { CustomizeSection } from "@/components/CustomizeSection";
 import { PlanSection } from "@/components/PlanSection";
+import { YourWorkSection } from "@/components/YourWorkSection";
 
 
 const Page = () => {
@@ -17,6 +18,7 @@ const Page = () => {
       <ExtensionSection />
       <CustomizeSection />
       <PlanSection />
+      <YourWorkSection />
     </div>
   )
 }
