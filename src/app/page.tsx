@@ -8,6 +8,8 @@ import { CustomizeSection } from "@/components/CustomizeSection";
 import { PlanSection } from "@/components/PlanSection";
 import { YourWorkSection } from "@/components/YourWorkSection";
 import { YourDataSection } from "@/components/YourDataSection";
+import { SponsorSection } from "@/components/SponsorSection";
+import { AppsSection } from "@/components/AppsSection";
 
 
 const Page = () => {
@@ -21,6 +23,8 @@ const Page = () => {
       <PlanSection />
       <YourWorkSection />
       <YourDataSection />
+      <SponsorSection />
+      <AppsSection />
     </div>
   )
 }
