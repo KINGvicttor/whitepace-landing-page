@@ -30,6 +30,7 @@ const Page = () => {
       <AppsSection />
       <TestimonialSection />
       <TrialSection />
+      <Footer />
     </div>
   )
 }
