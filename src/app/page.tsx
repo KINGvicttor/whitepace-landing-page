@@ -10,6 +10,7 @@ import { YourWorkSection } from "@/components/YourWorkSection";
 import { YourDataSection } from "@/components/YourDataSection";
 import { SponsorSection } from "@/components/SponsorSection";
 import { AppsSection } from "@/components/AppsSection";
+import { TestimonialSection } from "@/components/TestimonialSection";
 
 
 const Page = () => {
@@ -25,6 +26,7 @@ const Page = () => {
       <YourDataSection />
       <SponsorSection />
       <AppsSection />
+      <TestimonialSection />
     </div>
   )
 }
