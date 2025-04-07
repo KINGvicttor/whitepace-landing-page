@@ -11,6 +11,8 @@ import { YourDataSection } from "@/components/YourDataSection";
 import { SponsorSection } from "@/components/SponsorSection";
 import { AppsSection } from "@/components/AppsSection";
 import { TestimonialSection } from "@/components/TestimonialSection";
+import { Footer } from "@/components/Footer";
+import { TrialSection } from "@/components/TrialSection";
 
 
 const Page = () => {
@@ -27,6 +29,7 @@ const Page = () => {
       <SponsorSection />
       <AppsSection />
       <TestimonialSection />
+      <TrialSection />
     </div>
   )
 }
